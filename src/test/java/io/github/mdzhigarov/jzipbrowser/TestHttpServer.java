@@ -1,4 +1,4 @@
-package com.jzipbrowser;
+package io.github.mdzhigarov.jzipbrowser;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;

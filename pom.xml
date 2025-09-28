@@ -5,7 +5,7 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.jzipbrowser</groupId>
+    <groupId>io.github.mdzhigarov</groupId>
     <artifactId>jzipbrowser</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -82,7 +82,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.jzipbrowser.Main</mainClass>
+                            <mainClass>io.github.mdzhigarov.jzipbrowser.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

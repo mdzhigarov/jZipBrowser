@@ -19,6 +19,7 @@ buildNumber.properties
 .settings/
 .project
 .classpath
+.vscode/
 
 # OS
 .DS_Store

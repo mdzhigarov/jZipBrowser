@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jzipbrowser;
+package io.github.mdzhigarov.jzipbrowser;
 
 import java.io.InputStream;
 import java.net.URL;

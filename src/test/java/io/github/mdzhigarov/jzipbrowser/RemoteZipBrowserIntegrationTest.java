@@ -1,4 +1,4 @@
-package com.jzipbrowser;
+package io.github.mdzhigarov.jzipbrowser;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;

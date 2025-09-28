@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jzipbrowser;
+package io.github.mdzhigarov.jzipbrowser;
 
 /**
  * Represents a file entry within a ZIP archive.

@@ -19,7 +19,7 @@ A high-performance Java library for efficiently browsing and extracting individu
 
 ```xml
 <dependency>
-    <groupId>com.jzipbrowser</groupId>
+    <groupId>io.github.mdzhigarov</groupId>
     <artifactId>jzipbrowser</artifactId>
     <version>1.0.0</version>
 </dependency>
@@ -28,7 +28,7 @@ A high-performance Java library for efficiently browsing and extracting individu
 ### Basic Usage
 
 ```java
-import com.jzipbrowser.ZipBrowser;
+import io.github.mdzhigarov.jzipbrowser.ZipBrowser;
 import java.net.URL;
 import java.util.List;
 import java.util.Optional;
@@ -221,7 +221,7 @@ The library uses SLF4J for logging. Configure your logging framework to see deta
         </encoder>
     </appender>
     
-    <logger name="com.jzipbrowser" level="DEBUG"/>
+    <logger name="io.github.mdzhigarov.jzipbrowser" level="DEBUG"/>
     
     <root level="INFO">
         <appender-ref ref="STDOUT"/>
